@@ -13,9 +13,12 @@ HTML Integration: The model is rendered on a user-friendly HTML interface, provi
 Host Link:
 https://nmdharan28.github.io/isl-model-detection1/
 
-Technologies Used:\
+Technologies Used:
 
 Deep Learning
+
 TensorFlow.js
+
 HTML/CSS/JavaScript
+
 Cloud Hosting
